@@ -2,6 +2,10 @@ h1 {
     color: cornflowerblue;
 }
 
+li.item {
+    color: red;
+}
+
 li.active {
     color: aquamarine;
     text-decoration: underline;
